@@ -1,8 +1,8 @@
 # linear-regression-with-ML
-![image](https://github.com/MuQQQQQ/linear-regression-with-ML/blob/master/res1.png)
+<img src="https://github.com/MuQQQQQ/linear-regression-with-ML/blob/master/res1.png" width="50%">
 
-拟合结果
+**拟合结果**
 
-![image](https://github.com/MuQQQQQ/linear-regression-with-ML/blob/master/res2.png)
+<img src="https://github.com/MuQQQQQ/linear-regression-with-ML/blob/master/res2.png" width="50%">
 
-两变量MSE函数
+**两变量MSE函数**
